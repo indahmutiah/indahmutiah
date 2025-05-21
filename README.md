@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Indah 👋
+I'm a passionate QA Engineer from Bandung, Indonesia 🇮🇩
 
-<!--
-**indahmutiah/indahmutiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working as QA but I also enjoy building web applications.
+💻 **Tech Stack**  
+- **QA Tools**: Mocha Chai, Cypress, Selenium (Python), Pytest, JMeter, Postman  
+- **Backend**: npm, Bun, Hono, TypeScript, JavaScript, Prisma ORM, MySQL, PostgreSQL  
+- **Frontend**: React Router, TypeScript, JavaScript, HTML/CSS
+  
+🧪 Passionate about QA Automation, API Testing, and Web Development  
+📚 Lifelong learner | Open for collaboration
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: [indahmutiah.com](https://indahmutiah.com) | [LinkedIn](https://www.linkedin.com/in/indah-mutiah-utami-mz-a73bb2192/)
