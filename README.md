@@ -2,6 +2,7 @@
 I'm a passionate QA Engineer from Bandung, Indonesia 🇮🇩
 
 🔭 Currently working as QA but I also enjoy building web applications.
+
 💻 **Tech Stack**  
 - **QA Tools**: Mocha Chai, Cypress, Selenium (Python), Pytest, JMeter, Postman  
 - **Backend**: npm, Bun, Hono, TypeScript, JavaScript, Prisma ORM, MySQL, PostgreSQL  
